@@ -7,7 +7,6 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import RobustScaler, FunctionTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
-
 from src.constant import *
 from src.exception import CustomException
 from src.logger import logging
